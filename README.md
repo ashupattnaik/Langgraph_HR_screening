@@ -14,6 +14,6 @@ The workflow is as follows:
    Based on the two results:
    - If the skills match → the candidate is shortlisted for an **HR interview**.  
    - If the candidate is senior but skills don’t match → the case is **escalated to a recruiter**.  
-   - Otherwise → the application is **rejected** politely.
+   - Otherwise → the application is **rejected**.
 
 
