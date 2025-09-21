@@ -1,0 +1,15 @@
+[project]
+name = "langgraph-hr-screening"
+version = "0.1.0"
+description = "A simple workflow built with LangGraph and the Groq API to automate resume screening for a Python Developer role"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain",
+    "langgraph",
+    "langchain-groq",
+    "groq",
+    "python-dotenv",
+    "typing_extensions"
+]
+
